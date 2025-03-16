@@ -1,4 +1,4 @@
-🚀 **AI Trust Metrics Team** 🤖
+# 🚀 **AI Trust Metrics Team** 🤖
 
 We are a passionate and innovative group of researchers at the forefront of AI development, focused on creating and refining **trust metrics** 🧠🔍 that ensure AI systems are **transparent**, **accountable**, and **reliable**. As AI continues to shape our world 🌍, we believe it’s crucial to measure how much we can **trust** these systems to make fair and ethical decisions ⚖️.
 
